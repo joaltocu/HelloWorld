@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @joaltocu
+#A little insight
+
+- 👋 Hi everyone, I’m @joaltocu. This README will give you a bit of information about me!
+
 <!---
 - 👀 I’m interested in learning, learning and more learning
 - 🌱 I’m currently learning ...
