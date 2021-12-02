@@ -1,6 +1,19 @@
-#A little insight
+# A little insight
+👋 Hi everyone, I’m @joaltocu and this README will give you a bit of information about me!
 
-- 👋 Hi everyone, I’m @joaltocu. This README will give you a bit of information about me!
+## My career 
+I love working in tech. I have been working as an R&D Engineer for the medical industry for more than 20 years developing high technology radiographic systems based on Linux for worlwide markets. 
+
+My expertise includes getting involved in the complete process of product development, technical leadership of multidiscipinary teams, hands-on embedded system development and taking an active part in the whole software lifecycle.
+
+## Education
+I have a Master degree in Electronics Engineering and in addition to my technical education in hardware and software development, I have expericence as a project manager, hold the PMI's PMP credential and have completed several management courses. It allows me to understand other's point of view.
+
+## Attitude
+- Team player: "Alone We Go Faster, Together We Go Further"
+- I spare no effort to get any challenging goal: "At First, Dreams Seem Impossible, Then Improbable, And Eventually Inevitable"
+- I enjoy learning, learning and more learning: "I Know That I Know Nothing"
+
 
 <!---
 - 👀 I’m interested in learning, learning and more learning
