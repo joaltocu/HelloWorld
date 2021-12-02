@@ -1,8 +1,10 @@
 # A little insight
-👋 Hi everyone, I’m @joaltocu and this README will give you a bit of information about me!
+👋 Hi everyone, I’m @joaltocu and this README will give you a bit of information about me.
 
 ## My career 
-I love working in tech. I have been working as an R&D Engineer for the medical industry for more than 20 years developing high technology radiographic systems based on Linux for worldwide markets. 
+I love working in tech! 
+
+I have been working as an R&D Engineer for the medical industry for more than 20 years developing high technology radiographic systems based on Linux for worldwide markets. 
 
 My expertise includes people management, getting involved in the complete process of product development, technical leadership of multidiscipinary teams, hands-on embedded system development and taking an active part in the whole software lifecycle.
 
