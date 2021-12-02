@@ -4,7 +4,7 @@
 ## My career 
 I love working in tech. I have been working as an R&D Engineer for the medical industry for more than 20 years developing high technology radiographic systems based on Linux for worlwide markets. 
 
-My expertise includes getting involved in the complete process of product development, technical leadership of multidiscipinary teams, hands-on embedded system development and taking an active part in the whole software lifecycle.
+My expertise includes people management, getting involved in the complete process of product development, technical leadership of multidiscipinary teams, hands-on embedded system development and taking an active part in the whole software lifecycle.
 
 ## Education
 I have a Master degree in Electronics Engineering and in addition to my technical education in hardware and software development, I have expericence as a project manager, hold the PMI's PMP credential and have completed several management courses. It allows me to understand other's point of view.
