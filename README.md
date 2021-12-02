@@ -1,4 +1,4 @@
-# A little insight
+# A little insight into me
 👋 Hi everyone, I’m @joaltocu and this README will give you a bit of information about me.
 
 ## My career 
