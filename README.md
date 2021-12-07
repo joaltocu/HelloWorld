@@ -9,7 +9,9 @@ I have been working as an R&D Engineer for the medical industry for more than 20
 My expertise includes people management, getting involved in the complete process of product development, technical leadership of multidiscipinary teams, working with international customers, hands-on embedded system development and taking an active part in the whole software lifecycle.
 
 ## Education
-I have a Master degree in Electronics Engineering and in addition to my technical education in hardware and software development, I have expericence as a project manager, hold the PMI's PMP credential and have completed several management courses. This background helps me to understand other people's point of view and do all my best to fulfill their expectations.
+I have a Master degree in Electronics Engineering and in addition to my technical education in hardware and software development, I have expericence as a project manager, hold the PMI's PMP credential and have completed several management courses. 
+
+This background helps me understand other people's needs and point of view to make their work easier and fulfill their expectations.
 
 ## Attitude
 - Team player: "Alone We Go Faster, Together We Go Further"
